@@ -1,4 +1,5 @@
 def greet_characters(array)
+  dwarves = ["Dopey", "Grumpy", "Bashful"]
   # Use `each` to enumerate over the provided array
   #
   # Print a custom greeting for each element
